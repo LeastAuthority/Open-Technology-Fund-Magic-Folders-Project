@@ -2,7 +2,6 @@
 *supporter: Defense Advanced Research Projects Agency*
 
 * status: completed
-* amount: $168,000
 * support type: monetary
 * support source: domestic
 * type of support: R&D contract
@@ -14,7 +13,6 @@
 *supporter: Open Internet Tools Project*
 
 * status: active
-* amount: $30,000
 * support type: monetary
 * support source: domestic
 * type of support: R&D contract
